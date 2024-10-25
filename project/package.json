@@ -12,7 +12,7 @@
     "core-js": "^3.12.1",
     "lodash": "^4.17.21",
     "lokijs": "^1.5.12",
-    "vue": "^2.6.11",
+    "vue": "^3.0.0",
     "vue-class-component": "^7.2.3",
     "vue-i18n": "^8.22.3",
     "vue-property-decorator": "^9.1.2",
